@@ -11,3 +11,11 @@ Based on the constitution, create a detailed specification for the Physical AI b
 1. Book Structure with 1 chapters and 3 lessons each  (titles and Descriptions)
 2. Content guidelines and lesson format
 3. Docusaurus-specific requirements for organisation
+
+-----------------------------------------------
+
+Create a Development plan for building this book in Docusaurus . Include:
+1. Docusaurus setup steps and Configuration
+2. Content Development Phases
+3. File structure for chapters and lessons
+   
