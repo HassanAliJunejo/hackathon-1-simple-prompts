@@ -32,4 +32,4 @@ Now , Create the actual content for lesson 1.1 of the Physical AI Book . Provide
 3. At least one code example
 4. One practical exercise with solution
 5. Docusaurus-compatable formating
-6. 
+   
