@@ -24,3 +24,12 @@ Create a Development plan for building this book in Docusaurus . Include:
 Break down the plan into specific executable tasks as a checklist . Include:
 1. Docusaurus setup tasks
 2. Chapter development tasks (for 1 chapter with 3 lessons )
+
+-----------------------------------------------
+Now , Create the actual content for lesson 1.1 of the Physical AI Book . Provide:
+1. Complete markdown file with framematter
+2. Introduction to Physical AI
+3. At least one code example
+4. One practical exercise with solution
+5. Docusaurus-compatable formating
+6. 
